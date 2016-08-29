@@ -37,8 +37,8 @@
 ## `Prácticas`
 |  Práctica| Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera	|    3% | Lunes 29 de agosto       | 1  |
-| Segunda   	|    3% | Lunes 19 de septiembre   | 2  |
+| Primera	|    3% | Lunes 12 de septiembre   | 1  |
+| Segunda   	|    3% | Lunes 26 de septiembre   | 2  |
 | Tercera     	|    3% | Lunes 10 de octubre      | 3  |
 | Cuarta    	|    3% | Lunes 31 de octubre      | 4  |
 | Quinta        |    3% | Lunes 14 de noviembre    | 5  |
@@ -47,12 +47,11 @@
 ## `Etapas del Proyecto`
 | Etapas | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Etapa Inicial	   |    10% | Miércoles 24 de agosto         |    |
-| Primera Etapa    |     5% | Miércoles 07 de septiembre     | 1  |
-| Segunda Etapa    |     5% | Miércoles 28 de septiembre     | 2  |
-| Tercera Etapa    |     5% | Miércoles 19 de octubre        | 3  |
-| Cuarta Etapa     |     5% | Miércoles 09 de noviembre      | 4  |
-| Quinta Etapa     |     5% | Miércoles 23 de noviembre      | 5  |
+| Primera Etapa    |     7% | Miércoles 07 de septiembre     | 1  |
+| Segunda Etapa    |     7% | Miércoles 28 de septiembre     | 2  |
+| Tercera Etapa    |     7% | Miércoles 19 de octubre        | 3  |
+| Cuarta Etapa     |     7% | Miércoles 09 de noviembre      | 4  |
+| Quinta Etapa     |     7% | Miércoles 23 de noviembre      | 5  |
 
 
 
