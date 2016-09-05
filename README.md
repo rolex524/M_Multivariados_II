@@ -17,7 +17,7 @@
 
 * Hair Joseph; Anderson Rolph; Tatham Ronald y BlackWilliam, (1998). “Análisis Multivariante”, 5ta. Edición Madrid Españ.
 
-* Johnson, D. E., (1998). “Métodos Multivariados Aplicados al Análisis de Datos”, Editorial Internacition Thomson Editores, México.
+* Johnson, A . and  Wichern D., (2007). “Applied Multivariate Statistical Analysis”, Editorial Pearson Prentice Hall, Sexta Edición. Estados Unidos de Norte América.
 
 * Mardia K.V., Kent J.T. y Bibby J.M., (1982). "Multivariate Analysis", United States Edition published by Academic Press, Inc. Orlando, Florida.
 
