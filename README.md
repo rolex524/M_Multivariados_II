@@ -47,7 +47,7 @@
 ## `Etapas del Proyecto`
 | Etapas | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera Etapa    |     7% | Miércoles 07 de septiembre     | 1  |
+| Primera Etapa    |     7% | Miércoles 14 de septiembre     | 1  |
 | Segunda Etapa    |     7% | Miércoles 28 de septiembre     | 2  |
 | Tercera Etapa    |     7% | Miércoles 19 de octubre        | 3  |
 | Cuarta Etapa     |     7% | Miércoles 09 de noviembre      | 4  |
