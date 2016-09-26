@@ -28,8 +28,8 @@
 ## `Evaluaciones Parciales`
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primer Parcial	|    25% | Lunes 26 septiembre    | Temas 1, 2  |
-| Segundo Parcial   	|    25% | Lunes 21 de noviembre  | Temas 3, 4, 5  |
+| Primer Parcial	|    25% | Lunes 17 octubre       | Temas 1, 2  |
+| Segundo Parcial   	|    25% | Lunes 28 de noviembre  | Temas 3, 4, 5  |
 | Proyecto          	|    35% |  |  |
 | Prácticas             |    15% |  |  |
 | Asistencia            |    05% |  |  |
@@ -37,29 +37,29 @@
 ## `Prácticas`
 |  Práctica| Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera	|    3% | Lunes 12 de septiembre   | 1  |
-| Segunda   	|    3% | Lunes 26 de septiembre   | 2  |
-| Tercera     	|    3% | Lunes 10 de octubre      | 3  |
-| Cuarta    	|    3% | Lunes 31 de octubre      | 4  |
-| Quinta        |    3% | Lunes 14 de noviembre    | 5  |
+| Primera	|    3% | Lunes 17 de octubre      | 1  |
+| Segunda   	|    3% | Lunes 17 de octubre      | 2  |
+| Tercera     	|    3% | Lunes 31 de octubre      | 3  |
+| Cuarta    	|    3% | Lunes 14 de noviembre    | 4  |
+| Quinta        |    3% | Lunes 28 de noviembre    | 5  |
 
 
 ## `Etapas del Proyecto`
 | Etapas | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera Etapa    |     7% | Miércoles 14 de septiembre     | 1  |
-| Segunda Etapa    |     7% | Miércoles 28 de septiembre     | 2  |
-| Tercera Etapa    |     7% | Miércoles 19 de octubre        | 3  |
+| Primera Etapa    |     7% | Miércoles 05 de octubre     | 1  |
+| Segunda Etapa    |     7% | Miércoles 12 de octubre     | 2  |
+| Tercera Etapa    |     7% | Miércoles 26 de octubre        | 3  |
 | Cuarta Etapa     |     7% | Miércoles 09 de noviembre      | 4  |
 | Quinta Etapa     |     7% | Miércoles 23 de noviembre      | 5  |
 
 
 
 ### `Examen Recuperatorio \ Segundo Turno`
-> Lunes 28 de Noviembre : Todos los temas
+> Lunes 05 de Diciembre : Todos los temas
 
 
 ### `Publicación de Notas Finales`
-> Lunes 05 de Diciembre 
+> Miércoles 07 de Diciembre 
 
 
