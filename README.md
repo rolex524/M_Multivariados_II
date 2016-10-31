@@ -8,8 +8,8 @@
 > - Tema 1 : Comparación de Medias Multivariantes
 > - Tema 2 : Discriminación y Clasificación
 > - Tema 3 : Análisis de Correlación Canónica
-> - Tema 4 : Escalamiento Multidimensional 
-> - Tema 5 : Análisis de Correspondencias 
+> - Tema 4 : Análisis de Correspondencias 
+> - Tema 5 : Escalamiento Multidimensional 
 
 
 ## `Bibliografía`
@@ -29,7 +29,7 @@
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primer Parcial	|    25% | Lunes 17 octubre       | Temas 1, 2  |
-| Segundo Parcial   	|    25% | Lunes 28 de noviembre  | Temas 3, 4, 5  |
+| Segundo Parcial   	|    25% | Lunes 28 de noviembre  | Temas 3, 4  |
 | Proyecto          	|    35% |  |  |
 | Prácticas             |    15% |  |  |
 | Asistencia            |    05% |  |  |
@@ -39,9 +39,9 @@
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primera	|    3% | Lunes 17 de octubre      | 1  |
 | Segunda   	|    3% | Lunes 17 de octubre      | 2  |
-| Tercera     	|    3% | Lunes 31 de octubre      | 3  |
-| Cuarta    	|    3% | Lunes 14 de noviembre    | 4  |
-| Quinta        |    3% | Lunes 28 de noviembre    | 5  |
+| Tercera     	|    3% | Lunes 28 de noviembre      | 3  |
+| Cuarta    	|    3% | Lunes 28 de noviembre    | 4  |
+
 
 
 ## `Etapas del Proyecto`
@@ -49,17 +49,17 @@
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primera Etapa    |     7% | Miércoles 05 de octubre     | 1  |
 | Segunda Etapa    |     7% | Miércoles 12 de octubre     | 2  |
-| Tercera Etapa    |     7% | Miércoles 26 de octubre        | 3  |
-| Cuarta Etapa     |     7% | Miércoles 09 de noviembre      | 4  |
-| Quinta Etapa     |     7% | Miércoles 23 de noviembre      | 5  |
+| Tercera Etapa    |     7% | Lunes 14 de noviembre       | 3  |
+| Cuarta Etapa     |     7% | Miércoles 23 de noviembre   | 4  |
+
 
 
 
 ### `Examen Recuperatorio \ Segundo Turno`
-> Lunes 05 de Diciembre : Todos los temas
+> Viernes 02 de Diciembre : Todos los temas
 
 
 ### `Publicación de Notas Finales`
-> Miércoles 07 de Diciembre 
+> Lunes 05 de Diciembre 
 
 
