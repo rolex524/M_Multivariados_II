@@ -1,15 +1,16 @@
 #  METODOS MULTIVARIADOS II (EST-337)
 
 ## `Objetivo General`
-> Aplicar los conocimientos elementales del Álgebra Lineal y la Inferencia Estadística en el desarrollo analítico y aplicativo de técnicas multivariantes, a un nivel productivo-creativo.
+> Aplicar los conocimientos del Álgebra Lineal y el Análisis Multivariante en el desarrollo analítico y aplicativo de técnicas multivariantes, a un nivel productivo-creativo.
 
 
 ## `Contenido Temático`
-> - Tema 1 : Comparación de Medias Multivariantes
-> - Tema 2 : Discriminación y Clasificación
+> - Tema 1 : Análisis de Correspondencias 
+> - Tema 2 : Escalamiento Multidimensional
 > - Tema 3 : Análisis de Correlación Canónica
-> - Tema 4 : Análisis de Correspondencias 
-> - Tema 5 : Escalamiento Multidimensional 
+> - Tema 4 : Análisis Multivariante de la Varianza
+> - Tema 5 : Análisis Discriminante
+
 
 
 ## `Bibliografía`
@@ -28,38 +29,41 @@
 ## `Evaluaciones Parciales`
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primer Parcial	|    25% | Lunes 17 octubre       | Temas 1, 2  |
-| Segundo Parcial   	|    25% | Lunes 28 de noviembre  | Temas 3, 4  |
-| Proyecto          	|    35% |  |  |
+| Primer Parcial	|    20% | Lunes 27 de marzo       | Temas 1, 2  |
+| Segundo Parcial   	|    20% | Lunes 22 de mayo        | Temas 3, 4  |
+| Tercer Parcial        |    20% | Lunes 12 de junio       | Tema 5
+| Proyecto          	|    25% |  |  |
 | Prácticas             |    15% |  |  |
 | Asistencia            |    05% |  |  |
 
 ## `Prácticas`
 |  Práctica| Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera	|    3% | Lunes 17 de octubre      | 1  |
-| Segunda   	|    3% | Lunes 17 de octubre      | 2  |
-| Tercera     	|    3% | Lunes 28 de noviembre      | 3  |
-| Cuarta    	|    3% | Lunes 28 de noviembre    | 4  |
+| Primera	|    3% | Miércoles 01 de marzo    | 1  |
+| Segunda   	|    3% | Miércoles 15 de marzo    | 2  |
+| Tercera     	|    3% | Miércoles 12 de abril    | 3  |
+| Cuarta    	|    3% | Miércoles 10 de mayo     | 4  |
+| Quinta    	|    3% | Miércoles 31 de mayo     | 5  |
 
 
 
 ## `Etapas del Proyecto`
 | Etapas | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera Etapa    |     7% | Miércoles 05 de octubre     | 1  |
-| Segunda Etapa    |     7% | Miércoles 12 de octubre     | 2  |
-| Tercera Etapa    |     7% | Lunes 14 de noviembre       | 3  |
-| Cuarta Etapa     |     7% | Miércoles 23 de noviembre   | 4  |
+| Primera Etapa    |     5% | Lunes 06 de marzo           | 1  |
+| Segunda Etapa    |     5% | Lunes 20 de marzo           | 2  |
+| Tercera Etapa    |     5% | Lunes 17 de abril           | 3  |
+| Cuarta Etapa     |     5% | Lunes 15 de mayo            | 4  |
+| Quinta Etapa     |     5% | Lunes 05 de junio           | 5  |
 
 
 
 
 ### `Examen Recuperatorio \ Segundo Turno`
-> Viernes 02 de Diciembre : Todos los temas
+> Miércoles 14 de Junio : Todos los temas
 
 
 ### `Publicación de Notas Finales`
-> Lunes 05 de Diciembre 
+> Lunes 19 de Junio 
 
 
