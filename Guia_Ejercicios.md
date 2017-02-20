@@ -4,12 +4,12 @@ Los ejercicios corresponden a los propuestos en los libros de referencia.
 
 ## `TEMA N°1: Análisis de Correspondencias` (Pág. 217) - Peña
 
-> - **EJERCICIOS: ** 1) 7.1., 2) 7.2., 3) 7.3., 4) 7.4., 5) 7.5., 6) 7.6., 7) 7.7., 8) 7.8., 9) 7.9.
+> - EJERCICIOS:  1) 7.1., 2) 7.2., 3) 7.3., 4) 7.4., 5) 7.5., 6) 7.6., 7) 7.7., 8) 7.8., 9) 7.9.
 
 
 ## `TEMA N°2: Escalamiento Multidimensional` (Pág. 190) - Peña
 
-> - **EJERCICIOS: ** 1) 6.1., 2) 6.2., 3) 6.3., 4) 6.4., 5) 6.5., 6) 6.6., 7) 6.7.
+> - *EJERCICIOS:* 1) 6.1., 2) 6.2., 3) 6.3., 4) 6.4., 5) 6.5., 6) 6.6., 7) 6.7.
 
 
 ## `TEMA N° 3: Análisis de Correlación Canónica` (Pág. 378-379)- Rencher
@@ -28,7 +28,7 @@ Los ejercicios corresponden a los propuestos en los libros de referencia.
 
 
 
-> - **REFERENCIA: ** 
+##  `REFERENCIA:` 
 
 * Peña Daniel, (2002). “Análisis de Datos Multivariantes”, Editorial McGraw-Hill, Primera Edición en español, España.
 
