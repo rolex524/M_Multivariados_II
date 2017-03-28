@@ -32,8 +32,8 @@
 ## `Evaluaciones Parciales`
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primer Parcial	|    20% | Lunes 27 de marzo       | Temas 1, 2  |
-| Segundo Parcial   	|    20% | Lunes 03 de mayo        | Temas 3, 4  |
+| Primer Parcial	|    20% | Lunes 10 de abril       | Temas 1, 2  |
+| Segundo Parcial   	|    20% | Lunes 15 de mayo        | Temas 3, 4  |
 | Tercer Parcial        |    20% | Lunes 05 de junio       | Tema 5
 | Proyecto          	|    25% |  |  |
 | Prácticas             |    15% |  |  |
@@ -45,9 +45,9 @@
 |  Práctica| Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primera	|    3% | Miércoles 08 de marzo    | 1  |
-| Segunda   	|    3% | Miércoles 22 de marzo    | 2  |
-| Tercera     	|    3% | Miércoles 12 de abril    | 3  |
-| Cuarta    	|    3% | Miércoles 26 de abril    | 4  |
+| Segunda   	|    3% | Miércoles 05 de abril    | 2  |
+| Tercera     	|    3% | Miércoles 26 de abril    | 3  |
+| Cuarta    	|    3% | Miércoles 10 de mayo     | 4  |
 | Quinta    	|    3% | Miércoles 31 de mayo     | 5  |
 
 
@@ -56,18 +56,18 @@
 | Etapas | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primera Etapa    |     5% | Lunes 06 de marzo           | 1  |
-| Segunda Etapa    |     5% | Lunes 20 de marzo           | 2  |
-| Tercera Etapa    |     5% | Lunes 17 de abril           | 3  |
+| Segunda Etapa    |     5% | Lunes 03 de abril           | 2  |
+| Tercera Etapa    |     5% | Lunes 24 de abril           | 3  |
 | Cuarta Etapa     |     5% | Lunes 08 de mayo            | 4  |
 | Quinta Etapa     |     5% | Lunes 29 de mayo            | 5  |
 
 
 
 ### `Examen Recuperatorio \ Segundo Turno`
-> Lunes 12 de Junio : Todos los temas
+> Miércoles 08 de Junio : Todos los temas
 
 
 ### `Publicación de Notas Finales`
-> Miércoles 14 de Junio 
+> Jueves 09 de Junio 
 
 
