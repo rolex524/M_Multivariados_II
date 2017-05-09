@@ -33,7 +33,7 @@
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primer Parcial	|    20% | Lunes 10 de abril       | Temas 1, 2  |
-| Segundo Parcial   	|    20% | Lunes 15 de mayo        | Temas 3, 4  |
+| Segundo Parcial   	|    20% | Lunes 22 de mayo        | Temas 3, 4  |
 | Tercer Parcial        |    20% | Lunes 05 de junio       | Tema 5
 | Proyecto          	|    25% |  |  |
 | Prácticas             |    15% |  |  |
@@ -46,8 +46,8 @@
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primera	|    3% | Miércoles 08 de marzo    | 1  |
 | Segunda   	|    3% | Miércoles 05 de abril    | 2  |
-| Tercera     	|    3% | Lunes 15 de mayo         | 3  |
-| Cuarta    	|    3% | Lunes 15 de mayo         | 4  |
+| Tercera     	|    3% | Lunes 22 de mayo         | 3  |
+| Cuarta    	|    3% | Lunes 22 de mayo         | 4  |
 | Quinta    	|    3% | Lunes 05 de junio        | 5  |
 
 
@@ -55,19 +55,19 @@
 ## `Etapas del Proyecto`
 | Etapas | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera Etapa    |     5% | Lunes 06 de marzo           | 1  |
-| Segunda Etapa    |     5% | Lunes 03 de abril           | 2  |
-| Tercera Etapa    |     5% | Lunes 01 de mayo            | 3  |
-| Cuarta Etapa     |     5% | Lunes 22 de mayo            | 4  |
-| Quinta Etapa     |     5% | Lunes 29 de mayo            | 5  |
+| Primera Etapa    |     5% | Lunes 06 de marzo           | 1   |
+| Segunda Etapa    |     5% | Lunes 03 de abril           | 2   |
+| Tercera Etapa    |     5% | Jueves 11 de mayo           | 3   |
+| Cuarta Etapa     |    10% | Miércoles 07 de junio       | 4, 5|
+
 
 
 
 ### `Examen Recuperatorio \ Segundo Turno`
-> Miércoles 08 de Junio : Todos los temas
+> Lunes 12 de Junio : Todos los temas
 
 
 ### `Publicación de Notas Finales`
-> Jueves 09 de Junio 
+> Miércoles 14 de Junio 
 
 
