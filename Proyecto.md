@@ -12,10 +12,10 @@ Los proyectos en esta gestión corresponden a temas de investigación concerniente
 
 
 # `References.`
-> - 1. Inferences about a Mean Vector, section 5.7.
-> - 2. Inferences about a Mean Vector, section 5.8.
-> - 3. Comparisons of Several Multivariate Means, section 6.7.
-> - 4. Comparis of Several Multivariate Means, section 6.8.
+> - (1) Inferences about a Mean Vector, section 5.7.
+> - Inferences about a Mean Vector, section 5.8.
+> - Comparisons of Several Multivariate Means, section 6.7.
+> - Comparis of Several Multivariate Means, section 6.8.
  
 
 ## `SEGUNDA FASE - ANÁLISIS DE CONGLOMERADOS`
