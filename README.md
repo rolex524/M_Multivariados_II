@@ -5,12 +5,12 @@
 
 
 ## `Contenido Temático`
-> - Tema 1 : Análisis de Correspondencias 
-> - Tema 2 : Escalamiento Multidimensional
-> - Tema 3 : Análisis de Correlación Canónica
-> - Tema 4 : Análisis Multivariante de la Varianza
+> - Tema 1 : Análisis Multivariante de la Varianza
+> - Tema 2 : Análisis de Conglomerados
+> - Tema 3 : Escalamiento Multidimensional
+> - Tema 4 : Análisis de Correlación Canónica
 > - Tema 5 : Análisis Discriminante
-
+> - Tema 6 : Análisis de Correspondencias
 
 
 ## `Bibliografía`
@@ -32,42 +32,43 @@
 ## `Evaluaciones Parciales`
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primer Parcial	|    20% | Lunes 10 de abril       | Temas 1, 2  |
-| Segundo Parcial   	|    20% | Lunes 22 de mayo        | Temas 3, 4  |
-| Tercer Parcial        |    20% | Lunes 12 de junio       | Tema 5
-| Proyecto          	|    25% |  |  |
+| Primer Parcial	|    25% | Martes 03 de octubre   | Temas 1, 2 y 3 |
+| Segundo Parcial   	|    25% | Martes 21 de noviembre | Temas 4, 5 y 6   |
+| Proyecto          	|    30% |  |  |
 | Prácticas             |    15% |  |  |
 | Asistencia            |    05% |  |  |
-
 
 
 ## `Prácticas`
 |  Práctica| Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera	|    3% | Miércoles 08 de marzo    | 1  |
-| Segunda   	|    3% | Miércoles 05 de abril    | 2  |
-| Tercera     	|    3% | Lunes 29 de mayo         | 3  |
-| Cuarta    	|    3% | Lunes 29 de mayo         | 4  |
-| Quinta    	|    3% | Lunes 12 de junio        | 5  |
-
+| Primera	|    3% | Jueves 24 de agosto     | 1  |
+| Segunda   	|    3% | Jueves 14 de septiembre | 2  |
+| Tercera     	|    3% | Martes 03 de octubre    | 3  |
+| Cuarta    	|    3% | Jueves 26 de octubre    | 4  |
+| Quinta    	|    3% | Jueve  09 de noviembre  | 5  |
+| Sexta   	|    3% | Martes 21 de noviembre  | 6  |
 
 
 ## `Etapas del Proyecto`
-| Etapas | Ponderación| Fecha  |  Temas  |
+| Presentación | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera Etapa    |     5% | Lunes 06 de marzo           | 1   |
-| Segunda Etapa    |     5% | Lunes 03 de abril           | 2   |
-| Tercera Etapa    |     5% | Jueves 18 de mayo           | 3   |
-| Cuarta Etapa     |    10% | Jueves 08 de junio          | 4, 5|
-
-
+| Primera     |     8% | Martes 29 de agosto         | 1  | 
+| Segunda     |     6% | Martes 12 de septiembre     | 2  |
+| Tercera     |     8% | Martes 26 de septiembre     | 3  |
+| Cuarta      |     8% | Martes 17 de octubre        | 4  |
+| Quinta      |     8% | Martes 07 de noviembre      | 5  |
+| Sexta       |     8% | Martes 28 de noviembre      | 6  |
 
 
 ### `Examen Recuperatorio \ Segundo Turno`
-> Miércoles  14 de Junio : Todos los temas
+> Jueves 30 de Noviembre : Todos los temas
 
 
 ### `Publicación de Notas Finales`
-> Lunes 19 de Junio 
+> Martes 5 de diciembre 
+
+
+
 
 
