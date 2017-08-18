@@ -42,23 +42,23 @@
 ## `Prácticas`
 |  Práctica| Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera	|    3% | Jueves 24 de agosto     | 1  |
-| Segunda   	|    3% | Jueves 14 de septiembre | 2  |
-| Tercera     	|    3% | Martes 03 de octubre    | 3  |
-| Cuarta    	|    3% | Jueves 26 de octubre    | 4  |
-| Quinta    	|    3% | Jueve  09 de noviembre  | 5  |
-| Sexta   	|    3% | Martes 21 de noviembre  | 6  |
+| Primera	|    2.5% | Jueves 24 de agosto     | 1  |
+| Segunda   	|    2.5% | Jueves 14 de septiembre | 2  |
+| Tercera     	|    2.5% | Martes 03 de octubre    | 3  |
+| Cuarta    	|    2.5% | Jueves 26 de octubre    | 4  |
+| Quinta    	|    2.5% | Jueve  09 de noviembre  | 5  |
+| Sexta   	|    2.5% | Martes 21 de noviembre  | 6  |
 
 
 ## `Etapas del Proyecto`
 | Presentación | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera     |     8% | Martes 29 de agosto         | 1  | 
-| Segunda     |     6% | Martes 12 de septiembre     | 2  |
-| Tercera     |     8% | Martes 26 de septiembre     | 3  |
-| Cuarta      |     8% | Martes 17 de octubre        | 4  |
-| Quinta      |     8% | Martes 07 de noviembre      | 5  |
-| Sexta       |     8% | Martes 28 de noviembre      | 6  |
+| Primera     |     5% | Martes 29 de agosto         | 1  | 
+| Segunda     |     5% | Martes 12 de septiembre     | 2  |
+| Tercera     |     5% | Martes 26 de septiembre     | 3  |
+| Cuarta      |     5% | Martes 17 de octubre        | 4  |
+| Quinta      |     5% | Martes 07 de noviembre      | 5  |
+| Sexta       |     5% | Martes 28 de noviembre      | 6  |
 
 
 ### `Examen Recuperatorio \ Segundo Turno`
