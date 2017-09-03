@@ -42,11 +42,11 @@
 ## `Prácticas`
 |  Práctica| Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera	|    2.5% | Jueves 24 de agosto     | 1  |
+| Primera	|    2.5% | Martes 05 de septiembre | 1  |
 | Segunda   	|    2.5% | Jueves 14 de septiembre | 2  |
 | Tercera     	|    2.5% | Martes 03 de octubre    | 3  |
-| Cuarta    	|    2.5% | Jueves 26 de octubre    | 4  |
-| Quinta    	|    2.5% | Jueve  09 de noviembre  | 5  |
+| Cuarta    	|    2.5% | Martes 24 de octubre    | 4  |
+| Quinta    	|    2.5% | Martes 07 de noviembre  | 5  |
 | Sexta   	|    2.5% | Martes 21 de noviembre  | 6  |
 
 
@@ -54,10 +54,10 @@
 | Presentación | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primera     |     5% | Martes 29 de agosto         | 1  | 
-| Segunda     |     5% | Martes 12 de septiembre     | 2  |
-| Tercera     |     5% | Martes 26 de septiembre     | 3  |
-| Cuarta      |     5% | Martes 17 de octubre        | 4  |
-| Quinta      |     5% | Martes 07 de noviembre      | 5  |
+| Segunda     |     5% | Martes 19 de septiembre     | 2  |
+| Tercera     |     5% | Martes 10 de octubre        | 3  |
+| Cuarta      |     5% | Martes 31 de octubre        | 4  |
+| Quinta      |     5% | Martes 14 de noviembre      | 5  |
 | Sexta       |     5% | Martes 28 de noviembre      | 6  |
 
 
