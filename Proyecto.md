@@ -11,13 +11,6 @@ Los proyectos en esta gestión corresponden a temas de investigación concerniente
 > - Tema 4 : Growth Curves
 
 
-# `References.`
-> - (1) Inferences about a Mean Vector, section 5.7.
-> - (2) Inferences about a Mean Vector, section 5.8.
-> - (3) Comparisons of Several Multivariate Means, section 6.8.
-> - (4) Comparisons of Several Multivariate Means, section 6.9.
- 
-
 ## `2. ANÁLISIS DE CONGLOMERADOS`
 > - Tema 1 : Clustering Based on Statistical Models, section 12.5 (Jhonson-Wichern)
 > - Tema 2 : Fuzzy Clustering - Fuzzy c-Means Algorithm, section 1.5
