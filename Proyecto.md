@@ -22,6 +22,7 @@ Los proyectos en esta gestión corresponden a temas de investigación concerniente
 > - Tema 1 : SMACOF algorithm for Majorizing Stress
 > - Tema 2 : ALSCAL algorithm (Alternating Least Squared Scaling)
 > - Tema 3 : PROXSCAL algorithm (Proximity Scaling)
+> - Tema 4 : PROCRUSTES analysis
  
 
 ## `4. CORRELACIÓN CANÓNICA`
