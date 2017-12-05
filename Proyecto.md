@@ -37,6 +37,28 @@ Los proyectos en esta gestión corresponden a temas de investigación concerniente
 
 ## `6. ANALISIS DE CORRESPONDENCIAS`
 
+La matriz de datos se deja como una elección personal y la misma debe corresponder a una base de datos del ámbito nacional, las variables seleccionadas deben responder a un objetivo en particular y a las características de la técnica multivariante. Utlizar software estadístico de su preferencia, una vez desarrollado el trabajo resumir los resultados obtenidos en un informe. Si algún tipo de código fuese necesario, éste debe ser incluido en un apéndice, si el código fuese una o dos líneas incluirlo en el informe, ojo que no se aceptarán informes que sean solo corridas o salidas que proporcionan los softwares estadísticos o aplicaciones particulares. Finalmente, es bueno aprender a seleccionar aquello que realmente es importante, redactarlo, darle un formato personal,todos estos elementos son sumamente importantes en todo el desarrollo del trabajo.
+
+ANÁLISIS DE CORRESPONDENCIAS (Pág. 547-595)
+
+> - **Paso 0.** Análisis previo de los datos
+
+> - **Paso 1.** Objetivos del análisis de correspondencias
+
+> - **Paso 2.** Diseño de la investigación mediante análisis de correspondencias
+
+> - **Paso 3.** Supuestos del análisis de correspondencia
+
+> - **Paso 4.** Obtención de resultados con análisis de correspondencias y valoración del ajuste conjunto.
+
+> - **Paso 5.** Interpretación de los resultados
+
+> - **Paso 6.** Validación de los resultados
+
+
+
+## `REFERENCIA BIBLIOGRÁFICA:`  
+* Hair J., Anderson R., Tatham r. and Black W.(1999). “Análisis Multivariante”.  Editorial Prendice Hall. Impreso en España.
 
 
 
